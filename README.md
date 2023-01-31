@@ -1,4 +1,4 @@
-# Android device tree for Teclast P80T (P80T)
+# TeamWin Recovery Project (Android) device tree for Teclast P80T (P80T)
 
 ```
 #
